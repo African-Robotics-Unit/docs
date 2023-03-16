@@ -36,6 +36,12 @@ Sheet metal laser cutting and bending. Lead time about 5 days, but often faster.
 ### [Topfast](https://topfast.co.za)
 Pretty much every screw, nut, bolt, fastener you could ever imagine. They're in Paarden Eiland.
 
+### [Gartech](http://www.gartech.co.za)
+Huge selection of plastics in a variety of sections. Located in Epping. Limited on site machining and cutting.
+
+### [Cape Town Rubber](http://www.ctrubber.co.za)
+Wide range of rubber products from sheets to hosing. Based in Paarden Eiland. 
+
 # Trusted Online Companies <a name="Online"/>
 ### [Modular Assembly Technology](https://moduasm.co.za/)
 We use this company for sensor rig construction. They have structures that are good for research as they are versatile for building the rig you need. They are based in PE but delivery to Cape Town is quick, only a few days. 
