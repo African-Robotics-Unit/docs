@@ -41,7 +41,7 @@ Pretty much every screw, nut, bolt, fastener you could ever imagine. They're in 
 We use this company for sensor rig construction. They have structures that are good for research as they are versatile for building the rig you need. They are based in PE but delivery to Cape Town is quick, only a few days. 
 
 ### [Atlas Scientific](https://atlas-scientific.com/)
-They have a good range of analogue environmental sensors that often have digital communications already implemented with good documentation, code and after sales support over email. They have a lot of sensors that we need for marine robotics.
+They have a good range of analogue environmental sensors that often have digital communications already implemented with good documentation, code and after sales support over email. They have a lot of sensors that we need for marine robotics. They are an overseas company though, so expect slightly longer order delivery times.
 
 ### [RS Components](https://za.rs-online.com)
 (duh) For a lot of your electrical component needs.
