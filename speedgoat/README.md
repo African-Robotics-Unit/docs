@@ -1,6 +1,7 @@
 # Speedgoat Guide
 
 [Speedgoat Downloads](https://www.speedgoat.com/extranet#/Downloads)
+Contact Amir Patel for the login details
 
 ## I/O Modules
 
@@ -20,10 +21,12 @@
 Please keep this updated
 | Pin | Connection |
 | ------- | :------ |
-| IO393 5a | Boom RS485(+) |
-| IO393 6a | Boom RS485(-) |
-| IO393 1b | Boom 0V |
-| IO393 2b | Boom 5V |
+| IO393 5a | Boom Circuit RS485(+) |
+| IO393 6a | Boom Circuit RS485(-) |
+| IO393 1b | Boom Circuit 0V |
+| IO393 2b | Boom Circuit 5V |
+| IO393 15a | Kemba Piston Position Sensor Circuit 0V |
+| IO393 16a | Kemba Piston Position Sensor Circuit 5V |
 | IO291 1a-4a | Solenoid 1-4 (24V) |
 | IO291 9a-13a | Controller Buttons |
 | IO291 17a | Controller GND |
