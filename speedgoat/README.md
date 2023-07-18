@@ -1,8 +1,11 @@
 # Speedgoat Guide
 
-[Speedgoat Downloads](https://www.speedgoat.com/extranet#/Downloads)
+Some systems which interface with the Speedgoat are [Kemba](https://github.com/African-Robotics-Unit/kemba-controller), [Hopper](https://github.com/African-Robotics-Unit/hopper-controller), and the [Boom](https://github.com/African-Robotics-Unit/boom-firmware)
 
-Contact Amir Patel for the login details
+There are a number of custom blocks which were created for communicating with the Axia-80 Force Sensor (EtherCAT), the Boom (RS485), MIT-based Motors (CAN), Festo SDAT-MHS Position Sensors (RS232), the ODrive (CAN), etc. A tremendous amount of effort went into these custom blocks and there is no point in repeating the work so everything has been collated into the [ARU Simulink Toolbox](https://github.com/African-Robotics-Unit/simulink-toolbox).
+
+## Official Documentation and Downloads
+[Speedgoat Downloads](https://www.speedgoat.com/extranet#/Downloads) (Contact Amir Patel for the login details)
 
 ## I/O Modules
 
