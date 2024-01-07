@@ -68,6 +68,11 @@ The answers to [this question](https://www.quora.com/What-is-the-comparison-amon
 ## <a name="modelling-and-simulation-using-sympy"/> Modelling and simulation using `SymPy`
 [This tutorial-style talk](https://www.youtube.com/watch?v=r4piIKV4sDw) teaches you "how to derive, simulate, control, and visualize the motion of a multibody dynamic system with Python tools"
 
+[Blender](https://www.blender.org/) is a de facto standard of 3D modelling software for biomechanics, which is also controlled by Python.
+[Donut Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z) is one of the best tutorials for the beginners.
+
+[3D Slicer](https://www.slicer.org/) can analyse Computed Tomography (CT) data with [SlicerMorph](https://slicermorph.github.io/) plugin.
+
 
 ## <a name="computer-vision"/> Computer Vision
 [Daniel Cremer's Videos](https://www.youtube.com/watch?v=RDkwklFGMfo) will give you a good overview of multi-view camera work. 
