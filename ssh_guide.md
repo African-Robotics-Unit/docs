@@ -22,6 +22,22 @@ On your personal PC/laptop you'll need a couple pieces of software to get starte
 
 In addition to this, you'll want to make sure you have a user account on the host machine. If you don't have one already you'll need to contact a system administrator about it.
 
+## New User
+
+A newcomer needs to make an new user account on the server.
+Please tell your desired **username** and **password** to admin users:
+- Gerald Maswoswere (`nyemwero`)
+- Zico Da Silva (`zico`)
+- Amaan Vally (`amaan`)
+- Naoya Muramatsu (`naoya`)
+- Michael Katsoulis (`ktsmic005`)
+
+To the admin user: this is the commands to add a new user.
+```bash
+$ sudo adduser -m [newusername]
+$ sudo passwd [newusername]
+```
+
 ## Connecting to a Lab PC
 
 To establish an SSH connection, there are a few simple steps to follow:
